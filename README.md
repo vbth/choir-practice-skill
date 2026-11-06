@@ -4,9 +4,9 @@
 
 ## Individual scores. For every voice. To listen and practise.
 
-This project documents an AI music workflow and skill. Given a **choir score** (PDF, scan, photo or export from notation software), the skill produces one ZIP with **scores and MP3 recordings for every voice**: in three stages (solo, with accompaniment, in the choir) and in choir and piano sound. The AI agent transcribes the score, proofreads it twice and checks the audio technically. Everything is marked as created with AI assistance.
+This is primarily a code experiment.
 
-It is primarily a code experiment: software as a service (SaaS) becomes result as a service (RaaS).
+The project documents an AI music workflow and skill. Given a **choir score** (PDF, scan, photo or export from notation software), the skill produces one ZIP with **scores and MP3 recordings for every voice**: in three stages (solo, with accompaniment, in the choir) and in choir and piano sound. The AI agent transcribes the score, proofreads it twice and checks the audio technically. Everything is marked as created with AI assistance.
 
 ### What comes out
 
