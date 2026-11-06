@@ -40,7 +40,7 @@ Before it processes a score, the skill asks whether the score is public domain, 
 
 ### AI marking
 
-Everything the skill creates is marked as created with AI assistance: the EU label "AI" and the note "Created with AI assistance." in the footer of every PDF and in the metadata of MP3, MIDI, MusicXML and PDF. The music itself does not come from the AI: the notes follow the source, the sound is software synthesis. Compare the notes with the original before the rehearsal.
+Everything the skill creates is marked as created with AI assistance: the EU label "AI" and the note "Created with AI assistance." in the footer of every PDF and in the metadata of MP3, MIDI, MusicXML and PDF. The music itself does not come from the AI: the notes follow the source, the sound is software synthesis. Compare the notes and the music with the source before use.
 
 ### Licence
 
