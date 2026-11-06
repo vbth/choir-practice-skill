@@ -2,8 +2,6 @@
 
 <p><picture><source media="(prefers-color-scheme: dark)" srcset="https://choir-practice-skill.pages.dev/img/header-dark.png"><img src="https://choir-practice-skill.pages.dev/img/header.png" alt="A man with headphones stands in an old bathtub and sings from a sheet of music, a rubber duck floats beside him" width="100%"></picture></p>
 
-This repository only holds the downloads (releases) of the Choir Practice Skill: the `.skill` file and the example packs.
-
 ## Individual scores. For every voice. To listen and practise.
 
 This project documents an AI music workflow and skill. Given a **choir score** (PDF, scan, photo or export from notation software), the skill produces one ZIP with **scores and MP3 recordings for every voice**: in three stages (solo, with accompaniment, in the choir) and in choir and piano sound. The AI agent transcribes the score, proofreads it twice and checks the audio technically. Everything is marked as created with AI assistance.
