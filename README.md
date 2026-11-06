@@ -30,7 +30,7 @@ Python with the packages the skill lists, FluidSynth, ffmpeg, poppler and a soun
 
 ### Rights
 
-The skill gives no legal advice and grants no rights. It asks whether the score is public domain, licensed, the user's own work or unclear, and notes the answer in the README of the package. The licence of the skill says nothing about the rights to the score.
+Before it processes a score, the skill asks whether the score is public domain, licensed, the user's own work or unclear, and notes the answer in the README of the package. It gives no legal advice, does not check the answer and grants no rights. Whether a score may be processed and passed on depends on its copyright and licence, and the responsibility lies with the user. The licence of the skill says nothing about the rights to the score.
 
 ### Limits
 
@@ -40,7 +40,7 @@ The skill gives no legal advice and grants no rights. It asks whether the score 
 
 ### AI marking
 
-Everything the skill creates is marked as created with AI assistance: the EU label "AI" and the note "Created with AI assistance." in the footer of every PDF and in the metadata of MP3, MIDI, MusicXML and PDF. The music itself does not come from the AI: the notes follow the source, the sound is software synthesis.
+Everything the skill creates is marked as created with AI assistance: the EU label "AI" and the note "Created with AI assistance." in the footer of every PDF and in the metadata of MP3, MIDI, MusicXML and PDF. The music itself does not come from the AI: the notes follow the source, the sound is software synthesis. Compare the notes with the original before the rehearsal.
 
 ### Licence
 
